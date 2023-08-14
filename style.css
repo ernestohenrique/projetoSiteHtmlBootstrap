@@ -1,0 +1,8 @@
+/* Estilo personalizado para o container do texto */
+.text-justify {
+  text-align: justify;
+}
+
+.text-center {
+  font-weight: bold;
+}
